@@ -80,7 +80,7 @@ Selected color is applied only to ASCII art
 Color resets back to white after printing
 
 📂 Project File
-ascii_art_project.py
+ASCIICODE.py
 
 
 This file contains:
