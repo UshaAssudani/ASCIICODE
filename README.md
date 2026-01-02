@@ -94,7 +94,9 @@ Menu interface
 Printing functions
 
 ⚙ Installation
+
 1️⃣ Install Python
+
 
 Download from:
 https://www.python.org/
